@@ -11,3 +11,4 @@ coverage/
 .idea/
 .vscode/
 yarn.lock
+package-lock.json
